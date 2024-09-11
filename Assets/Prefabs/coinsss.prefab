@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1665033771636995521}
   - component: {fileID: 1665033771636995522}
   m_Layer: 0
-  m_Name: coinsss
+  m_Name: Coinsss
   m_TagString: Pickup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
